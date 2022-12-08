@@ -1,10 +1,10 @@
 # Site settings
-title: Prototipação Agil
+title: Prototipação Ágil
 email: leonardo@valetecnologia.com
 url: https://github.com/leoribg/leoribg.github.io
-description: "Placas de prototipacao agil para validacoes de ideias e novos negocios!"
+description: "Placas de prototipacao ágil para validações de idéias e novos negócios!"
 keywords: "IoT, prototype, board, sensors, wireless"
-skills: "Confiavel Agil Funcional"
+skills: "Confiavel - Ágil - Funcional - Profissional"
 meta_author: Goncalves Leonardo
 
 # Google webmaster tools
@@ -32,31 +32,30 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Vale Tecnologia
   location: Location
-  social: Around the Web
-  credits: Credits
+  # social: Around the Web
+  # credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Santa Rita do Sapucaí, MG 37540-000
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
