@@ -1,10 +1,11 @@
 # Site settings
 title: Prototipação Ágil
+company: Vale Tecnologia
 email: leonardo@valetecnologia.com
 url: https://github.com/leoribg/leoribg.github.io
 description: "Placas de prototipacao ágil para validações de idéias e novos negócios!"
 keywords: "IoT, prototype, board, sensors, wireless"
-skills: "Confiavel - Ágil - Funcional - Profissional"
+skills: "Ágil - Funcional - Profissional"
 meta_author: Goncalves Leonardo
 
 # Google webmaster tools
